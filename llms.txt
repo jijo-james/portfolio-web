@@ -1,0 +1,146 @@
+# Jijo James - Freelance Data Engineer, LLM Developer & AI Specialist
+
+> Looking for a freelance data engineer? Hire Jijo James for data pipelines, LLM integration, AI agents, and machine learning projects.
+
+## Summary
+Jijo James is a Senior Data Engineer and AI Specialist with 9+ years of experience, available for freelance and contract work. Based in Bangalore, India, working remotely with clients worldwide. Specializes in building scalable data infrastructure, LLM-powered applications, AI agents, and production ML systems.
+
+## Freelance Services
+
+### Data Engineering
+- **ETL/ELT Pipeline Development**: Design and build scalable data pipelines using Apache Spark, Airflow, dbt
+- **Data Warehouse Architecture**: Snowflake, BigQuery, Redshift implementation and optimization
+- **Real-time Data Streaming**: Kafka, event-driven architectures
+- **Data Migration**: Legacy system modernization, cloud migration
+- **Data Platform Development**: End-to-end data infrastructure setup
+- **Cost Optimization**: Reduce cloud data infrastructure costs
+
+### LLM & Generative AI
+- **LLM Application Development**: Build production-ready LLM-powered applications
+- **RAG System Development**: Retrieval-Augmented Generation pipelines with vector databases
+- **Custom Chatbots**: AI assistants for customer support, internal tools
+- **LLM Fine-tuning**: Domain-specific model training and optimization
+- **Prompt Engineering**: Optimize prompts for better LLM outputs
+- **LLM Integration**: OpenAI, Anthropic Claude, open-source models (Llama, Mistral)
+
+### AI Agents & Automation
+- **AI Agent Development**: Autonomous agents for complex workflows
+- **Multi-Agent Systems**: Orchestrated AI agent architectures
+- **Workflow Automation**: AI-powered business process automation
+- **Tool-Using Agents**: Agents that interact with APIs, databases, external systems
+
+### Machine Learning
+- **ML Model Development**: Supervised, unsupervised, deep learning models
+- **MLOps**: Model deployment, monitoring, CI/CD for ML
+- **Recommendation Systems**: Personalization engines
+- **NLP Solutions**: Text classification, entity extraction, sentiment analysis
+
+## Technical Expertise
+
+### Programming Languages
+Python (Expert), SQL (Expert), Scala (Proficient), Bash
+
+### Data Engineering Stack
+- Apache Spark, PySpark
+- Apache Airflow, Prefect, Dagster
+- dbt (data build tool)
+- Apache Kafka, Flink
+- Delta Lake, Apache Iceberg
+
+### Cloud Platforms
+- AWS: S3, Glue, Lambda, EMR, Redshift, SageMaker
+- Google Cloud: BigQuery, Dataflow, Cloud Functions, Vertex AI
+- Databricks: Unity Catalog, Delta Live Tables, MLflow
+- Azure: Data Factory, Synapse, Azure ML
+
+### Databases & Data Warehouses
+- PostgreSQL, MySQL
+- MongoDB, DynamoDB
+- Snowflake, BigQuery, Redshift
+- Pinecone, Weaviate, Chroma (Vector DBs)
+
+### LLM & AI Tools
+- LangChain, LlamaIndex
+- OpenAI API, Anthropic Claude API
+- Hugging Face Transformers
+- RAG architectures
+- Vector databases (Pinecone, Weaviate, Chroma, pgvector)
+- Prompt engineering frameworks
+
+### DevOps & Infrastructure
+- Docker, Kubernetes
+- Terraform, CloudFormation
+- GitHub Actions, Jenkins
+- Linux, shell scripting
+
+## Work Experience
+
+### Senior Data Engineer - Eli Lilly and Company (2025 - Present)
+Leading data migration for acquired companies. Building LLM-powered data pipelines and RAG systems. Driving data infrastructure modernization.
+
+### Data Engineer - AI Palette (2024)
+Built and optimized ETL pipelines using Airflow and Spark. Reduced execution time by 90%. Cut infrastructure costs via Kubernetes migration. Implemented in-house LLM-powered translator.
+
+### Co-Founder - Dataque (2021 - 2024)
+Built full-stack data platform processing 7M+ data points. 25% accuracy improvement. FastAPI, PostgreSQL, Python. Led product development for startup clients.
+
+### Data Analyst - Leadlytics (2019 - 2021)
+Led automation extracting 2M+ user records. Built data pipelines for US clients. Managed team of 3.
+
+### Independent Consultant - Freelance (2016 - 2019)
+Digital presence and lead generation for local businesses and startups.
+
+## Project Types I Take On
+- Building data pipelines from scratch
+- Migrating legacy systems to modern data stacks
+- Implementing LLM/AI features in existing products
+- Creating AI chatbots and virtual assistants
+- Developing RAG-based knowledge systems
+- Building AI agents for automation
+- Data warehouse design and optimization
+- ML model development and deployment
+- Technical consulting and architecture reviews
+
+## Industries Served
+- Healthcare & Pharmaceuticals
+- Consumer Goods (CPG/FMCG)
+- Technology / SaaS
+- E-commerce & Retail
+- Fintech
+- Startups (Seed to Series B)
+
+## Engagement Models
+- **Hourly**: For consulting, code reviews, architecture discussions
+- **Project-Based**: Fixed scope and timeline deliverables
+- **Retainer**: Ongoing support and development
+- **Part-time Contract**: Dedicated hours per week/month
+
+## Why Hire Jijo?
+- 9+ years hands-on experience in data and AI
+- Built systems processing millions of data points
+- Experience at enterprise (Eli Lilly) and startup scale
+- Strong communication, async-friendly
+- End-to-end ownership from design to deployment
+- Cost-conscious, efficient solutions
+
+## Availability
+Currently accepting new freelance projects. Available for:
+- Remote work worldwide
+- Short-term projects (1-4 weeks)
+- Long-term contracts (3-12 months)
+- Part-time engagements (10-30 hours/week)
+
+## Timezone
+India Standard Time (IST / UTC+5:30)
+Flexible with overlap hours for US, EU, APAC clients.
+Available to work on  Eastern (EST), Central (CST), Mountain (MST), Pacific (PST), Alaska (AKST), and Hawaii-Aleutian (HST), Western European Time (WET/GMT, UTC+0), Central European Time (CET, UTC+1), and Eastern European Time (EET, UTC+2), Greenwich Mean Time (GMT).
+
+## Contact
+- Website: https://jijojames.dev
+- Email: jj.jamesjijo@gmail.com
+- LinkedIn: https://linkedin.com/in/jamesjijo
+- GitHub: https://github.com/jijo-james
+- Resume: https://resume.jijojames.dev
+
+## Keywords
+freelance data engineer, contract data engineer, hire data engineer, LLM developer for hire, AI agent developer, machine learning consultant, RAG developer, data pipeline consultant, Airflow expert, Spark developer, dbt consultant, freelance ML engineer, generative AI developer, chatbot developer, AI automation specialist, remote data engineer, India data engineer, US data engineer, UK data engineer, Europe data engineer, EU data engineer, Eastern (EST) data engineer, Central (CST) data engineer, Mountain (MST) data engineer, Pacific (PST) data engineer, Alaska (AKST) data engineer, and Hawaii-Aleutian (HST) data engineer, Python data engineer

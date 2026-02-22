@@ -1,0 +1,10 @@
+# robots.txt for jijojames.dev
+
+User-agent: *
+Allow: /
+
+# Sitemap
+Sitemap: https://jijojames.dev/sitemap.xml
+
+# Crawl-delay (optional, be polite to servers)
+Crawl-delay: 1
