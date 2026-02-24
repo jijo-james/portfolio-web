@@ -245,14 +245,23 @@
                         </a>
                     </div>
                 </div>
-                <form action="mailto:jj.jamesjijo@gmail.com" method="POST" class="space-y-4">
-                    <input type="text" name="name" placeholder="Name" class="w-full px-4 py-2.5 bg-white border border-neutral-300 rounded-lg text-sm focus:outline-none focus:border-neutral-500">
-                    <input type="email" name="email" placeholder="Email" class="w-full px-4 py-2.5 bg-white border border-neutral-300 rounded-lg text-sm focus:outline-none focus:border-neutral-500">
-                    <textarea name="message" rows="4" placeholder="Message" class="w-full px-4 py-2.5 bg-white border border-neutral-300 rounded-lg text-sm focus:outline-none focus:border-neutral-500 resize-none"></textarea>
+                <form id="contactForm" class="space-y-4">
+                    <input type="text" id="contactName" name="name" placeholder="Name" required class="w-full px-4 py-2.5 bg-white border border-neutral-300 rounded-lg text-sm focus:outline-none focus:border-neutral-500">
+                    <textarea id="contactMessage" name="message" rows="4" placeholder="Message" required class="w-full px-4 py-2.5 bg-white border border-neutral-300 rounded-lg text-sm focus:outline-none focus:border-neutral-500 resize-none"></textarea>
                     <button type="submit" class="w-full px-4 py-2.5 bg-neutral-900 text-white rounded-lg text-sm font-medium hover:bg-neutral-700">
                         Send Message
                     </button>
                 </form>
+                <script>
+                    document.getElementById('contactForm').addEventListener('submit', function(e) {
+                        e.preventDefault();
+                        const name = document.getElementById('contactName').value;
+                        const message = document.getElementById('contactMessage').value;
+                        const subject = encodeURIComponent('Message from ' + name);
+                        const body = encodeURIComponent(message);
+                        window.location.href = 'mailto:jj.jamesjijo@gmail.com?subject=' + subject + '&body=' + body;
+                    });
+                </script>
             </div>
         </div>
     </section>
