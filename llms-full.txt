@@ -1,0 +1,232 @@
+# Jijo James - Freelance Data Engineer, LLM Developer & AI Specialist
+## Full Profile (llms-full.txt)
+
+> Looking for a freelance data engineer? Hire Jijo James for data pipelines, LLM integration, AI agents, and machine learning projects. Available for remote contract work worldwide.
+
+---
+
+## Who is Jijo James?
+
+Jijo James is a Senior Data Engineer and AI Specialist with over 9 years of professional experience. He is currently a Senior Data Engineer at Eli Lilly and Company, where he leads data migration for acquired companies and builds LLM-powered data pipelines and RAG systems.
+
+Jijo is based in Bangalore, India, and is available for freelance and contract work with clients worldwide. He works remotely and offers flexible overlap hours for clients in US, European, and Asia-Pacific time zones.
+
+He specializes in building scalable data infrastructure, LLM-powered applications, AI agents, and production machine learning systems. He has completed 30+ data projects across healthcare, consumer goods, technology/SaaS, e-commerce, fintech, and startup sectors.
+
+---
+
+## Freelance Services Offered
+
+### 1. Data Engineering
+- **ETL/ELT Pipeline Development**: Design and build scalable data pipelines using Apache Spark, PySpark, Apache Airflow, Prefect, Dagster, and dbt (data build tool). Experience processing millions of data points with high accuracy and reliability.
+- **Data Warehouse Architecture**: Implementation and optimization of Snowflake, Google BigQuery, Amazon Redshift, and Databricks Unity Catalog/Delta Live Tables data warehouses.
+- **Real-time Data Streaming**: Event-driven architectures using Apache Kafka and Apache Flink for real-time data processing needs.
+- **Data Migration**: Legacy system modernization and cloud migration. Currently leading multi-company data migration at Eli Lilly.
+- **Data Platform Development**: End-to-end data infrastructure setup from scratch, including ingestion, transformation, storage, and analytics layers.
+- **Cost Optimization**: Reduce cloud data infrastructure costs through architecture improvements, resource optimization, and migration strategies. Demonstrated cost reduction via Kubernetes migration at AI Palette.
+
+### 2. LLM & Generative AI
+- **LLM Application Development**: Build production-ready applications powered by Large Language Models using OpenAI API, Anthropic Claude API, and open-source models (Llama, Mistral) via Hugging Face Transformers.
+- **RAG System Development**: Design and implement Retrieval-Augmented Generation pipelines with vector databases (Pinecone, Weaviate, Chroma, pgvector) for accurate, grounded AI responses.
+- **Custom Chatbots & AI Assistants**: Build AI assistants for customer support, internal knowledge bases, and domain-specific use cases.
+- **LLM Fine-tuning**: Domain-specific model training and optimization for improved performance on specialized tasks.
+- **Prompt Engineering**: Optimize prompts and prompt chains for better LLM outputs and reliability.
+- **LLM Integration**: Integrate LLM capabilities into existing products and workflows using LangChain and LlamaIndex frameworks.
+
+### 3. AI Agents & Automation
+- **AI Agent Development**: Build autonomous agents for complex workflows that can reason, plan, and execute multi-step tasks.
+- **Multi-Agent Systems**: Orchestrated AI agent architectures where multiple specialized agents collaborate on complex problems.
+- **Workflow Automation**: AI-powered business process automation replacing manual, repetitive tasks.
+- **Tool-Using Agents**: Agents that interact with APIs, databases, file systems, and external services to complete real-world tasks.
+
+### 4. Machine Learning
+- **ML Model Development**: Supervised, unsupervised, and deep learning models for classification, regression, clustering, and prediction tasks.
+- **MLOps**: End-to-end model deployment, monitoring, CI/CD pipelines for ML using MLflow, SageMaker, and Vertex AI.
+- **Recommendation Systems**: Personalization engines for e-commerce, content, and product recommendations.
+- **NLP Solutions**: Text classification, named entity extraction, sentiment analysis, and document understanding.
+
+---
+
+## Complete Technical Stack
+
+### Programming Languages
+- Python (Expert - primary language)
+- SQL (Expert - complex queries, stored procedures, optimization)
+- Scala (Proficient - Spark applications)
+- Bash (shell scripting, automation)
+
+### Data Engineering Tools
+- Apache Spark, PySpark (distributed data processing)
+- Apache Airflow, Prefect, Dagster (workflow orchestration)
+- dbt - data build tool (data transformation)
+- Apache Kafka, Apache Flink (streaming)
+- Delta Lake, Apache Iceberg (lakehouse formats)
+
+### Cloud Platforms
+- **AWS**: S3, Glue, Lambda, EMR, Redshift, SageMaker, Step Functions
+- **Google Cloud Platform (GCP)**: BigQuery, Dataflow, Cloud Functions, Vertex AI, Cloud Storage
+- **Databricks**: Unity Catalog, Delta Live Tables, MLflow, Spark clusters
+- **Microsoft Azure**: Data Factory, Synapse Analytics, Azure ML
+
+### Databases & Data Warehouses
+- Relational: PostgreSQL, MySQL
+- NoSQL: MongoDB, DynamoDB
+- Data Warehouses: Snowflake, BigQuery, Redshift
+- Vector Databases: Pinecone, Weaviate, Chroma, pgvector
+
+### LLM & AI Frameworks
+- LangChain (LLM application framework)
+- LlamaIndex (data framework for LLMs)
+- OpenAI API (GPT-4, GPT-4o, embeddings)
+- Anthropic Claude API
+- Hugging Face Transformers (open-source models)
+- RAG architectures (retrieval-augmented generation)
+- Prompt engineering frameworks
+
+### DevOps & Infrastructure
+- Docker (containerization)
+- Kubernetes (container orchestration)
+- Terraform, CloudFormation (infrastructure as code)
+- GitHub Actions, Jenkins (CI/CD)
+- Linux, shell scripting
+
+### Web Development
+- FastAPI (Python web framework)
+- PostgreSQL (application databases)
+- REST APIs
+
+---
+
+## Professional Experience (Detailed)
+
+### Senior Data Engineer — Eli Lilly and Company (2025 – Present)
+- Leading data migration for multiple acquired companies, ensuring seamless integration of diverse data systems
+- Building LLM-powered data pipelines and RAG systems for internal knowledge management
+- Driving data infrastructure modernization initiatives across the organization
+- Working with enterprise-scale data across healthcare and pharmaceutical domains
+
+### Data Engineer — AI Palette (2024)
+- Built and optimized ETL pipelines using Apache Airflow and Apache Spark for consumer goods analytics
+- Achieved 90% reduction in pipeline execution time through Jenkins automation and optimization
+- Significantly reduced infrastructure costs by migrating workloads to Kubernetes
+- Implemented an in-house LLM-powered translator for multi-language content processing
+- Worked on FMCG/CPG trend analytics and consumer insights data
+
+### Co-Founder — Dataque (2021 – 2024)
+- Co-founded a data services company helping startups scale through data-driven solutions
+- Built a full-stack data platform using FastAPI, PostgreSQL, and Python
+- Designed ETL pipelines processing 7M+ data points with 25% improved accuracy
+- Led product development, client relationships, and technical architecture
+- Served clients across e-commerce, fintech, and SaaS industries
+
+### Data Analyst — Leadlytics (2019 – 2021)
+- Led automation projects using Python and Selenium, extracting 2M+ user records for B2B lead generation
+- Built data pipelines for US clients using SQL and Bash scripting
+- Managed a team of 3 analysts and developers
+- Drove B2B lead generation initiatives and outbound data campaigns
+
+### Independent Consultant — Freelance (2016 – 2019)
+- Helped local businesses and early-stage startups build their digital presence
+- Generated leads through outbound campaigns and LinkedIn outreach for D2C companies
+- Provided technical consulting on data strategy and digital transformation
+
+---
+
+## Key Achievements & Metrics
+- 30+ data projects completed across multiple industries
+- 9+ years of professional experience in data and AI
+- Reduced pipeline execution time by 90% at AI Palette
+- Processed 7M+ data points with 25% accuracy improvement at Dataque
+- Extracted and processed 2M+ user records at Leadlytics
+- Led multi-company data migration at Eli Lilly (enterprise scale)
+- Experience at both enterprise (Eli Lilly) and startup (Dataque, AI Palette) scale
+
+---
+
+## Industries Served
+- Healthcare & Pharmaceuticals (Eli Lilly)
+- Consumer Goods / CPG / FMCG (AI Palette)
+- Technology / SaaS
+- E-commerce & Retail
+- Fintech
+- Startups (Seed to Series B)
+- B2B / Lead Generation
+
+---
+
+## Engagement Models & Availability
+
+### How to Hire Jijo James
+- **Hourly Consulting**: For code reviews, architecture discussions, technical advisory
+- **Project-Based**: Fixed scope and timeline deliverables with clear milestones
+- **Retainer**: Ongoing support, development, and maintenance
+- **Part-time Contract**: Dedicated hours per week or month (10–30 hours/week)
+
+### Availability
+Currently accepting new freelance projects. Available for:
+- Remote work worldwide
+- Short-term projects (1–4 weeks)
+- Long-term contracts (3–12 months)
+- Part-time engagements (10–30 hours/week)
+
+### Timezone
+India Standard Time (IST / UTC+5:30)
+Flexible with overlap hours for all major time zones:
+- Americas: EST, CST, MST, PST, AKST, HST
+- Europe: GMT/WET, CET, EET
+- Asia-Pacific: IST, SGT, JST, AEST
+
+---
+
+## Why Hire Jijo James?
+1. **Deep Technical Expertise**: 9+ years of hands-on experience building data systems and AI applications
+2. **Proven Scale**: Built systems processing millions of data points at both enterprise and startup scale
+3. **Enterprise + Startup Experience**: Understands both corporate rigor (Eli Lilly) and startup velocity (Dataque, AI Palette)
+4. **End-to-End Ownership**: From architecture design to production deployment and monitoring
+5. **Strong Communication**: Async-friendly, clear documentation, regular status updates
+6. **Cost-Conscious Solutions**: Track record of reducing infrastructure costs and optimizing performance
+7. **LLM & AI Native**: Deep experience with cutting-edge LLM frameworks, RAG, and AI agents
+
+---
+
+## Frequently Asked Questions
+
+**Q: What services does Jijo James offer as a freelance data engineer?**
+A: Jijo offers data pipeline development (Spark, Airflow, dbt), LLM application development (LangChain, RAG), AI agent systems, machine learning solutions, and cloud data infrastructure services on AWS, GCP, and Databricks.
+
+**Q: How many years of experience does Jijo James have?**
+A: Jijo has over 9 years of professional experience in data engineering, machine learning, and AI, having worked at Eli Lilly, AI Palette, co-founded Dataque, and consulted independently.
+
+**Q: Is Jijo James available for remote freelance work?**
+A: Yes, Jijo works remotely with clients worldwide from Bangalore, India. He offers flexible overlap hours for US, European, and Asia-Pacific time zones and accepts hourly, project-based, retainer, and part-time contract engagements.
+
+**Q: What technologies does Jijo James specialize in?**
+A: Python, SQL, Apache Spark, Apache Airflow, dbt, LangChain, OpenAI API, Anthropic Claude, Hugging Face, RAG architectures, vector databases (Pinecone, Weaviate, Chroma), AWS, GCP, Databricks, Docker, Kubernetes, FastAPI, and PostgreSQL.
+
+**Q: What industries has Jijo James worked in?**
+A: Healthcare & pharmaceuticals (Eli Lilly), consumer goods/FMCG (AI Palette), technology/SaaS, e-commerce & retail, fintech, and early-stage startups.
+
+**Q: How can I contact Jijo James for freelance work?**
+A: Email jj.jamesjijo@gmail.com, connect on LinkedIn at linkedin.com/in/jamesjijo, or visit jijojames.dev. View his resume at resume.jijojames.dev.
+
+---
+
+## Contact Information
+- **Website**: https://jijojames.dev
+- **Email**: jj.jamesjijo@gmail.com
+- **LinkedIn**: https://linkedin.com/in/jamesjijo
+- **GitHub**: https://github.com/jijo-james
+- **Resume**: https://resume.jijojames.dev
+
+---
+
+## Related Resources
+- [Portfolio Website](https://jijojames.dev) — Main portfolio with experience and skills
+- [Resume](https://resume.jijojames.dev) — Detailed professional resume
+- [GitHub](https://github.com/jijo-james) — Open source projects and code samples
+- [LinkedIn](https://linkedin.com/in/jamesjijo) — Professional network profile
+- [LLMs.txt Summary](https://jijojames.dev/llms.txt) — Concise AI-readable summary
+
+---
+
+*Last updated: March 2026*
