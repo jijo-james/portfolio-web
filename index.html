@@ -268,7 +268,14 @@
         <div class="max-w-4xl mx-auto px-6 py-4">
             <div class="flex items-center justify-between">
                 <a href="#" class="text-lg font-semibold">Jijo</a>
-                <div class="flex items-center gap-6">
+                <!-- Hamburger button (mobile only) -->
+                <button id="menuToggle" aria-label="Toggle navigation menu" aria-expanded="false" class="md:hidden flex flex-col justify-center items-center w-8 h-8 gap-1.5">
+                    <span id="bar1" class="block w-5 h-0.5 bg-neutral-900 transition-all duration-300"></span>
+                    <span id="bar2" class="block w-5 h-0.5 bg-neutral-900 transition-all duration-300"></span>
+                    <span id="bar3" class="block w-5 h-0.5 bg-neutral-900 transition-all duration-300"></span>
+                </button>
+                <!-- Desktop nav links -->
+                <div class="hidden md:flex items-center gap-6">
                     <a href="#about" class="text-neutral-500 hover:text-neutral-900 text-sm">About</a>
                     <a href="#services" class="text-neutral-500 hover:text-neutral-900 text-sm">Services</a>
                     <a href="#skills" class="text-neutral-500 hover:text-neutral-900 text-sm">Skills</a>
@@ -276,6 +283,17 @@
                     <a href="#faq" class="text-neutral-500 hover:text-neutral-900 text-sm">FAQ</a>
                     <a href="#contact" class="text-neutral-500 hover:text-neutral-900 text-sm">Contact</a>
                 </div>
+            </div>
+        </div>
+        <!-- Mobile menu (hidden by default) -->
+        <div id="mobileMenu" class="md:hidden hidden border-t border-neutral-200 bg-white/95 backdrop-blur-sm">
+            <div class="max-w-4xl mx-auto px-6 py-4 flex flex-col gap-4">
+                <a href="#about" class="text-neutral-600 hover:text-neutral-900 text-sm py-1 mobile-nav-link">About</a>
+                <a href="#services" class="text-neutral-600 hover:text-neutral-900 text-sm py-1 mobile-nav-link">Services</a>
+                <a href="#skills" class="text-neutral-600 hover:text-neutral-900 text-sm py-1 mobile-nav-link">Skills</a>
+                <a href="#experience" class="text-neutral-600 hover:text-neutral-900 text-sm py-1 mobile-nav-link">Experience</a>
+                <a href="#faq" class="text-neutral-600 hover:text-neutral-900 text-sm py-1 mobile-nav-link">FAQ</a>
+                <a href="#contact" class="text-neutral-600 hover:text-neutral-900 text-sm py-1 mobile-nav-link">Contact</a>
             </div>
         </div>
     </nav>
@@ -626,5 +644,43 @@
             Made with ❤️ using OSS.
         </div>
     </footer>
+    <!-- Mobile Menu Script -->
+    <script>
+        const menuToggle = document.getElementById('menuToggle');
+        const mobileMenu = document.getElementById('mobileMenu');
+        const bar1 = document.getElementById('bar1');
+        const bar2 = document.getElementById('bar2');
+        const bar3 = document.getElementById('bar3');
+        let isOpen = false;
+
+        menuToggle.addEventListener('click', () => {
+            isOpen = !isOpen;
+            mobileMenu.classList.toggle('hidden');
+            menuToggle.setAttribute('aria-expanded', isOpen);
+
+            // Animate hamburger to X
+            if (isOpen) {
+                bar1.style.transform = 'translateY(8px) rotate(45deg)';
+                bar2.style.opacity = '0';
+                bar3.style.transform = 'translateY(-8px) rotate(-45deg)';
+            } else {
+                bar1.style.transform = '';
+                bar2.style.opacity = '1';
+                bar3.style.transform = '';
+            }
+        });
+
+        // Close menu when a link is tapped
+        document.querySelectorAll('.mobile-nav-link').forEach(link => {
+            link.addEventListener('click', () => {
+                isOpen = false;
+                mobileMenu.classList.add('hidden');
+                menuToggle.setAttribute('aria-expanded', 'false');
+                bar1.style.transform = '';
+                bar2.style.opacity = '1';
+                bar3.style.transform = '';
+            });
+        });
+    </script>
 </body>
 </html>
